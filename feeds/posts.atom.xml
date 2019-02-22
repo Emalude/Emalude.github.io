@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Emanuele's Data Science Blog</title><link href="/" rel="alternate"></link><link href="/feeds/posts.atom.xml" rel="self"></link><id>/</id><updated>2019-02-22T00:30:00+01:00</updated><entry><title>Cryptocurrencies Market Capitalization</title><link href="/cryptocurrencies-market-capitalization.html" rel="alternate"></link><published>2019-02-22T00:30:00+01:00</published><updated>2019-02-22T00:30:00+01:00</updated><author><name>Emanuele Sicurella</name></author><id>tag:,2019-02-22:cryptocurrencies-market-capitalization.html</id><summary type="html">&lt;style type="text/css"&gt;/*!
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Emanuele's Data Science Blog - posts</title><link href="/" rel="alternate"></link><link href="/feeds/posts.atom.xml" rel="self"></link><id>/</id><updated>2019-02-22T00:30:00+01:00</updated><entry><title>Cryptocurrencies Market Capitalization</title><link href="/cryptocurrencies-market-capitalization.html" rel="alternate"></link><published>2019-02-22T00:30:00+01:00</published><updated>2019-02-22T00:30:00+01:00</updated><author><name>Emanuele Sicurella</name></author><id>tag:None,2019-02-22:/cryptocurrencies-market-capitalization.html</id><summary type="html">&lt;p&gt;Trial post, project from DataCamp&lt;/p&gt;</summary><content type="html">&lt;style type="text/css"&gt;/*!
 *
 * IPython notebook
 *
@@ -8226,4 +8226,4 @@ L 413.2625 7.2
     (document.body || document.getElementsByTagName('head')[0]).appendChild(mathjaxscript);
 }
 &lt;/script&gt;
-</summary><category term="python cryptocurrencies bitcoin"></category></entry></feed>
+</content><category term="python cryptocurrencies bitcoin"></category></entry></feed>
